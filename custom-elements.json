@@ -1,0 +1,213 @@
+{
+  "version": 2,
+  "tags": [
+    {
+      "name": "local-time",
+      "attributes": [
+        {
+          "name": "datetime",
+          "type": "any"
+        },
+        {
+          "name": "day",
+          "type": "any"
+        },
+        {
+          "name": "format",
+          "type": "any"
+        },
+        {
+          "name": "lang",
+          "type": "any"
+        },
+        {
+          "name": "hour",
+          "type": "any"
+        },
+        {
+          "name": "minute",
+          "type": "any"
+        },
+        {
+          "name": "month",
+          "type": "any"
+        },
+        {
+          "name": "second",
+          "type": "any"
+        },
+        {
+          "name": "title",
+          "type": "any"
+        },
+        {
+          "name": "weekday",
+          "type": "any"
+        },
+        {
+          "name": "year",
+          "type": "any"
+        }
+      ],
+      "properties": [],
+      "events": [],
+      "slots": []
+    },
+    {
+      "name": "relative-time",
+      "attributes": [
+        {
+          "name": "datetime",
+          "type": "any"
+        },
+        {
+          "name": "day",
+          "type": "any"
+        },
+        {
+          "name": "format",
+          "type": "any"
+        },
+        {
+          "name": "lang",
+          "type": "any"
+        },
+        {
+          "name": "hour",
+          "type": "any"
+        },
+        {
+          "name": "minute",
+          "type": "any"
+        },
+        {
+          "name": "month",
+          "type": "any"
+        },
+        {
+          "name": "second",
+          "type": "any"
+        },
+        {
+          "name": "title",
+          "type": "any"
+        },
+        {
+          "name": "weekday",
+          "type": "any"
+        },
+        {
+          "name": "year",
+          "type": "any"
+        }
+      ],
+      "properties": [],
+      "events": [],
+      "slots": []
+    },
+    {
+      "name": "time-ago",
+      "attributes": [
+        {
+          "name": "datetime",
+          "type": "any"
+        },
+        {
+          "name": "day",
+          "type": "any"
+        },
+        {
+          "name": "format",
+          "type": "any"
+        },
+        {
+          "name": "lang",
+          "type": "any"
+        },
+        {
+          "name": "hour",
+          "type": "any"
+        },
+        {
+          "name": "minute",
+          "type": "any"
+        },
+        {
+          "name": "month",
+          "type": "any"
+        },
+        {
+          "name": "second",
+          "type": "any"
+        },
+        {
+          "name": "title",
+          "type": "any"
+        },
+        {
+          "name": "weekday",
+          "type": "any"
+        },
+        {
+          "name": "year",
+          "type": "any"
+        }
+      ],
+      "properties": [],
+      "events": [],
+      "slots": []
+    },
+    {
+      "name": "time-until",
+      "attributes": [
+        {
+          "name": "datetime",
+          "type": "any"
+        },
+        {
+          "name": "day",
+          "type": "any"
+        },
+        {
+          "name": "format",
+          "type": "any"
+        },
+        {
+          "name": "lang",
+          "type": "any"
+        },
+        {
+          "name": "hour",
+          "type": "any"
+        },
+        {
+          "name": "minute",
+          "type": "any"
+        },
+        {
+          "name": "month",
+          "type": "any"
+        },
+        {
+          "name": "second",
+          "type": "any"
+        },
+        {
+          "name": "title",
+          "type": "any"
+        },
+        {
+          "name": "weekday",
+          "type": "any"
+        },
+        {
+          "name": "year",
+          "type": "any"
+        }
+      ],
+      "properties": [],
+      "events": [],
+      "slots": []
+    }
+  ]
+}
